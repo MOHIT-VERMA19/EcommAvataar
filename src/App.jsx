@@ -37,6 +37,7 @@ const images = [
   { image: image3, title: 'Product 3' },
   {image: image4, title: 'Product 4'},
   
+  
   // Add more items as needed
 ];
 
